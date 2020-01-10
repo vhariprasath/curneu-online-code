@@ -12,8 +12,8 @@
 * Upload a Receiving data to AWS DynamoDB, while Receiving from Application A
 
 ### Source Code Directories
-* [chatapp](https://github.com/Hari-Prasath-1701/curneu-online-code/chatapp)
-* [loginsignup](https://github.com/Hari-Prasath-1701/curneu-online-code/messagingapp)
+* [chatapp](https://github.com/Hari-Prasath-1701/curneu-online-code/tree/master/chatapp)
+* [loginsignup](https://github.com/Hari-Prasath-1701/curneu-online-code/tree/master/messagingapp)
 
 ### Author
 * Hari Prasath V.
