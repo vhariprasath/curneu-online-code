@@ -11,8 +11,8 @@
 ## Directory structure
 
 ```bash
-── /backend/            # api Gateway Websockets and Lambda functions
-── /frontend/           # frontend React web app
+	/backend/            # api Gateway Websockets and Lambda functions
+	/frontend/           # frontend React web app
 ```
 
 ## Deploy Backend
