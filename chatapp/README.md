@@ -1,4 +1,4 @@
-# React Chat App
+# React Chat App 📳📲
 
 ## Tech stacks
 
